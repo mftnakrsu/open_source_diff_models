@@ -540,14 +540,22 @@ You then load the LoRA adapter into the inference pipeline.
 - **Deneme / araştırma için:** Hunyuan (şimdilik ücretsiz)
 
   
-https://github.com/tdrussell/diffusion-pipe?tab=readme-ov-file
-https://github.com/tdrussell/diffusion-pipe/blob/main/docs/supported_models.md
-https://huggingface.co/Lightricks/LTX-Video?utm_source=chatgpt.com
-https://huggingface.co/docs/diffusers/en/api/pipelines/wan
-https://huggingface.co/docs/diffusers/index
-https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B?utm_source=chatgpt.com
-https://vast.ai/?utm_target=&utm_group=&placement=&device=c&adposition=&utm_source=google&utm_medium=cpc&utm_campaign=20740487654_&utm_content=&utm_term=&hsa_acc=7028527117&hsa_cam=20740487654&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22457588611&gbraid=0AAAAAC66i41TXjKRbSmgGjmhiMff2LzFL&gclid=CjwKCAjwuePGBhBZEiwAIGCVS2rnw9R2SBFsRdq-tbQjhbRy3Yk7_zWF8bhA5w7WD6EmUG_6dfY5DBoC9rAQAvD_BwE
-https://www.runpod.io/
+https://github.com/tdrussell/diffusion-pipe?tab=readme-ov-file  
+
+https://github.com/tdrussell/diffusion-pipe/blob/main/docs/supported_models.md  
+
+https://huggingface.co/Lightricks/LTX-Video
+
+https://huggingface.co/docs/diffusers/en/api/pipelines/wan  
+
+https://huggingface.co/docs/diffusers/index  
+
+https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B
+
+https://vast.ai/?  
+utm_target=&utm_group=&placement=&device=c&adposition=&utm_source=google&utm_medium=cpc&utm_campaign=20740487654_&utm_content=&utm_term=&hsa_acc=7028527117&hsa_cam=20740487654&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22457588611&gbraid=0AAAAAC66i41TXjKRbSmgGjmhiMff2LzFL&gclid=CjwKCAjwuePGBhBZEiwAIGCVS2rnw9R2SBFsRdq-tbQjhbRy3Yk7_zWF8bhA5w7WD6EmUG_6dfY5DBoC9rAQAvD_BwE  
+
+https://www.runpod.io/  
 
 Wan 1.3B → 8–16 GB VRAM yeter (Colab T4’de çalışır).
 LTX 5B → 24+ GB VRAM gerekir (4090 sınırda, A100 daha iyi).
